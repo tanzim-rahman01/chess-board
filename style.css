@@ -1,0 +1,552 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.main{
+    height: 808px;
+    width: 808px;
+    background-color: bisque;
+    margin:0 auto;
+    position: relative;
+}
+.one{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:white;
+    top:4px;
+    left:4px;
+
+}
+.tow{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:black;
+    top:4px;
+    left: 104px;
+
+}
+.tree{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:white;
+    top:4px;
+    left:204px;
+
+}
+.four{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:black;
+    top:4px;
+    left: 304px;
+  
+}
+.five{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:white;
+    top:4px;
+    left:404px;
+
+}
+.six{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:black;
+    top:4px;
+    left:504px;
+
+}
+.saven{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:white;
+    top:4px;
+    left:604px;
+
+}
+.eight{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:black;
+    top:4px;
+    right:4px;
+
+}
+.nine{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:black;
+    top:104px;
+    left:4px;
+
+}
+.tane{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:white;
+    top:104px;
+    left:104px;
+
+}
+.eliben{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:black;
+    top:104px;
+    left:204px;
+}
+.towel{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:white;
+    top:104px;
+    left:304px;
+}
+.tarti{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:black;
+    top:104px;
+    left:404px;
+}
+.tourti{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:white;
+    top:104px;
+    left:504px;
+}
+.fevtin{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:black;
+    top:104px;
+    left:604px;
+}
+.sixtin{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:white;
+    top:104px;
+    right: 4px;
+}
+.saventin{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:white;
+    top:204px;
+    left:04px;
+}
+.eittin{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:black;
+    top:204px;
+    left:104px;
+}
+.nintin{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:white;
+    top:204px;
+    left:204px;
+}
+.towanti{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:black;
+    top:204px;
+    left:304px;
+}
+.towanti1{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:white;
+    top:204px;
+    left:404px;
+}
+.towanti2{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:black;
+    top:204px;
+    left:504px;
+}
+.towanti3{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:white;
+    top:204px;
+    left:604px;
+}
+.towanti4{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:black;
+    top:204px;
+    right:04px;
+}
+.towanti5{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:black;
+    top:304px;
+    left:04px;
+}
+.towanti6{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:white;
+    top:304px;
+    left:104px;
+}
+.towanti7{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:black;
+    top:304px;
+    left:204px;
+}
+.towanti8{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:white;
+    top:304px;
+    left:304px;
+}
+.towanti9{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:black;
+    top:304px;
+    left:404px;
+}
+.therti{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:white;
+    top:304px;
+    left:504px;
+}
+.therti1{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:black;
+    top:304px;
+    left:604px;
+}
+.therti2{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:white;
+    top:304px;
+    right:04px;
+}
+.therti3{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:white;
+    top:404px;
+    left:04px;
+}
+.therti4{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:black;
+    top:404px;
+    left:104px;
+}
+.therti5{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:white;
+    top:404px;
+    left:204px;
+}
+.therti6{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:black;
+    top:404px;
+    left:304px;
+}
+.therti7{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:white;
+    top:404px;
+    left:404px;
+}
+.therti8{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:black;
+    top:404px;
+    left:504px;
+}
+.therti9{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:white;
+    top:404px;
+    left:604px;
+}
+.fourti{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:black;
+    top:404px;
+    right:4px;
+}
+.fourti1{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:black;
+    top:504px;
+    left:04px;
+}
+.fourti2{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:white;
+    top:504px;
+    left:104px;
+}
+.fourti3{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:black;
+    top:504px;
+    left:204px;
+}
+.fourti4{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:white;
+    top:504px;
+    left:304px;
+}
+.fourti5{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:black;
+    top:504px;
+    left:404px;
+}
+.fourti6{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:white;
+    top:504px;
+    left:504px;
+}
+.fourti7{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:black;
+    top:504px;
+    left:604px;
+}
+.fourti8{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:white;
+    top:504px;
+    right:04px;
+}
+.fourti9{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:white;
+    top:604px;
+    left:04px;
+}
+.fiveti{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:black;
+    top:604px;
+    left:104px;
+}
+.fiveti1{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:white;
+    top:604px;
+    left:204px;
+}
+.fiveti2{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:black;
+    top:604px;
+    left:304px;
+}
+.fiveti3{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:white;
+    top:604px;
+    left:404px;
+}
+.fiveti4{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:black;
+    top:604px;
+    left:504px;
+}
+.fiveti5{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:white;
+    top:604px;
+    left:604px;
+}
+.fiveti6{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:black;
+    top:604px;
+    right:04px;
+}
+.fiveti7{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:black;
+    top:704px;
+    left:04px;
+}
+.fiveti8{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:white;
+    top:704px;
+    left:104px;
+}
+.fiveti9{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:black;
+    top:704px;
+    left:204px;
+}
+.sixti{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:white;
+    top:704px;
+    left:304px;
+}
+.sixti1{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:black;
+    top:704px;
+    left:404px;
+}
+.sixti2{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:white;
+    top:704px;
+    left:504px;
+}
+.sixti3{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:black;
+    top:704px;
+    left:604px;
+}
+.sixti4{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color:white;
+    top:704px;
+    right:04px;
+}
+p{
+
+    font-size: 70px;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+.pp{
+    
+    font-size: 70px;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    color: white;
+}
